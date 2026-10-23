@@ -1,3 +1,5 @@
+<p align="right">🇺🇸 English · [🇧🇷 Português](README.pt.md)</p>
+
 # Automatic Classification of Programming Error Messages
 
 **Using Machine Learning to Support Educational Recommendation Systems**

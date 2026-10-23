@@ -1,3 +1,5 @@
+<p align="right">[🇺🇸 English](README.md) · 🇧🇷 Português</p>
+
 # Classificação Automática de Mensagens de Erro em Programação
 
 **Utilizando Aprendizado de Máquina para Suporte a Sistemas de Recomendação Educacionais**
