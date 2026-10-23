@@ -1,4 +1,4 @@
-<p align="right">🇺🇸 English · [🇧🇷 Português](README.pt.md)</p>
+<p align="right">🇺🇸 English · <a href="README.pt.md">🇧🇷 Português</a></p>
 
 # Automatic Classification of Programming Error Messages
 
